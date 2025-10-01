@@ -1,4 +1,4 @@
-# 1ºProyecto: Encendidos alternativos. 
+# 1<sup>er</sup>Proyecto: Encendidos alternativos. 
 
 
 <img src= "Imágenes/arduino_led.png" width="600" height="500" />
@@ -8,6 +8,8 @@
 Tenemos la placa de arudinos y la placa de protoboard, tenemos 2 diodos led el rojo que esta conectado al pin nº8 y el amarillo que esta conectado al pin nº7 y esos dos diodos estan conectados al GND.
 
 ## Codigo:
+
+Mi codigo comienza con el void sutup
 
 
 
