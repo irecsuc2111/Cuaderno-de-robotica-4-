@@ -1,4 +1,4 @@
-# 1<sup>er</sup>Proyecto: Encendidos alternativos. 
+# 1<sup>er</sup>proyecto: Encendidos alternativos. 
 
 
 <img src= "Imágenes/arduino_led.png" width="600" height="500" />
