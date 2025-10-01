@@ -9,7 +9,8 @@ Tenemos la placa de arudinos y la placa de protoboard, tenemos 2 diodos led el r
 
 ## Codigo:
 
-Mi codigo comienza con el void sutup
+Mi codigo comienza con el void sutup (sirve para ejecutar un bloque de código una sola vez al inicio del programa),
+continua con el  pinMode(8, OUTPUT);
 
 
 
