@@ -19,4 +19,6 @@ continua con el  pinMode(8, OUTPUT);
 <img src= "Imágenes/PULSADOR.png" width="600" height="500" />
 </p>
 
+## Explicación del circuito:
 
+## Codigo:
