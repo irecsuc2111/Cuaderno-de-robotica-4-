@@ -12,7 +12,7 @@ Lo que tiene que hacer el circuito es que cuando se encienda los diodos leds se 
 
 Mi codigo comienza con el void sutup (sirve para ejecutar un bloque de código una sola vez al inicio del programa),
 continua con el  pinMode(8, OUTPUT); y pinMode(7, OUTPUT); (lo que hace esto es que el pin que este seleccionado sea de salida.
-El programa continua con un void loop() (se usa para crear un bucle)
+El programa continua con un void loop() (se usa para crear un bucle), 
 
 # -2<sup>er</sup>proyecto: Pulsador. 
 
