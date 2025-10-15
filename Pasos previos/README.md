@@ -6,7 +6,7 @@
 
 ## Explicación del circuito:
 
-Tenemos la placa de arudinos y la placa de protoboard, tenemos 2 diodos led el rojo que esta conectado al pin nº8 y el amarillo que esta conectado al pin nº7 y esos dos diodos estan conectados al GND.
+Lo que tiene que hacer el circuito es que cuando se encienda los diodos leds se esten encendiendo y apagando por separado lo mas rapido posible.
 
 ## Codigo:
 
@@ -20,5 +20,7 @@ continua con el  pinMode(8, OUTPUT);
 </p>
 
 ## Explicación del circuito:
+El objetivo del circuito es que cuando el programa se ponga en marcha un diodo led se encienda y cuando pulsemos el pulsador el que esta encendido se apague y el otro se encienda mientras que este pulsado.
+
 
 ## Codigo:
