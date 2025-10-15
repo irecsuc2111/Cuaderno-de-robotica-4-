@@ -24,3 +24,8 @@ El objetivo del circuito es que cuando el programa se ponga en marcha un diodo l
 
 
 ## Codigo:
+
+
+
+
+
