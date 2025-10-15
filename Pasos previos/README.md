@@ -1,4 +1,4 @@
-# 1<sup>er</sup>proyecto: Encendidos alternativos. 
+# -1<sup>er</sup>proyecto: Encendidos alternativos. 
 
 <p align="center">
 <img src= "Imágenes/arduino_led.png" width="600" height="500" />
@@ -13,7 +13,7 @@ Lo que tiene que hacer el circuito es que cuando se encienda los diodos leds se 
 Mi codigo comienza con el void sutup (sirve para ejecutar un bloque de código una sola vez al inicio del programa),
 continua con el  pinMode(8, OUTPUT);
 
-# 2<sup>er</sup>proyecto: Pulsador. 
+# -2<sup>er</sup>proyecto: Pulsador. 
 
 <p align="center">
 <img src= "Imágenes/PULSADOR.png" width="600" height="500" />
