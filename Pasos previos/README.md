@@ -27,6 +27,9 @@ El objetivo del circuito es que cuando el programa se ponga en marcha un diodo l
 ## Codigo:
 
 
+# -3<sup>er</sup>proyecto: Potenciometro. 
+
+
 
 
 
