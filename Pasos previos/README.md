@@ -12,7 +12,7 @@ Lo que tiene que hacer el circuito es que cuando se encienda los diodos leds se 
 
 Mi codigo comienza con el void sutup (sirve para ejecutar un bloque de código una sola vez al inicio del programa),
 continua con el  pinMode(8, OUTPUT); y pinMode(7, OUTPUT); (lo que hace esto es que el pin que este seleccionado sea de salida.
-El programa continua con un void loop() (se usa para crear un bucle), el digitalWrite(8, HIGH) se usa para establecer un pin digital en estado alto (HIGH) y bajo (LOW) , despues el otro pin digitalWrite(7, LOW) lo ponemos bajo, usamos un delay(120) para que cuando se use el primer programa haya un tiempo de espera de 120 milisegundo.
+El programa continua con un void loop() (se usa para crear un bucle), el digitalWrite(8, HIGH) se usa para establecer un pin digital en estado alto (HIGH) y bajo (LOW) , despues el otro pin digitalWrite(7, LOW) lo ponemos bajo, usamos un delay(120) para que cuando se use el primer programa haya un tiempo de espera de 120 milisegundo. Despues el lo mismo pero intercambiando el low por el high y fin del programa.
 
 
 
