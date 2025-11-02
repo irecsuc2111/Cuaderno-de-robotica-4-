@@ -38,6 +38,10 @@ El objetivo del circuito es que cuando el programa se ponga en marcha un diodo l
 # -3<sup>er</sup>proyecto: Potenciometro. 
 
 
+<p align="center">
+<img src= "Imágenes/Captura de pantalla 2025-11-02 215725.png" width="600" height="500" />
+</p>
+
 
 
 
