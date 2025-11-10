@@ -32,7 +32,7 @@ El objetivo del circuito es que cuando el programa se ponga en marcha un diodo l
 
 ## Codigo:
 <p align="center">
-<img src= "Imágenes/Captura de pantalla 2025-11-02 215541.png" width="200" height="400" />
+<img src= "Imágenes/Captura de pantalla 2025-11-02 215541.png" width="300" height="400" />
 </p>
 
 # -3<sup>er</sup>proyecto: Potenciometro. 
