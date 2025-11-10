@@ -49,3 +49,12 @@ El objetivo del circuito es que cuando el programa se ponga en marcha un diodo l
 <img src= "Imágenes/potenciómetro_real (1).jpg" width="400" height="400" />
 </p>
 
+## Codigo:
+<p align="center">
+<img src= "Imágenes/mapeado_potenciometro (1).png" width="800" height="700" />
+</p>
+
+
+
+# -5<sup>er</sup>proyecto: Ultrasonido.
+
