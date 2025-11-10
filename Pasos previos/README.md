@@ -45,5 +45,7 @@ El objetivo del circuito es que cuando el programa se ponga en marcha un diodo l
 
 # -4<sup>er</sup>proyecto: Mapeado de potenciometro. 
 
-
+<p align="center">
+<img src= "Imágenes/potenciómetro_real (1).jpg" width="400" height="400" />
+</p>
 
