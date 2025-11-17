@@ -35,6 +35,15 @@ El objetivo del circuito es que cuando el programa se ponga en marcha un diodo l
 <img src= "Imágenes/Captura de pantalla 2025-11-02 215541.png" width="300" height="400" />
 </p>
 
+Al empezar el código creamos 4 variantes, que se crea con el comando __int__ (funciona creando un nombre para esa variable y poder utilizarlo duranto todo el codigo).
+
+Hemos creado dos variables para los dos leds llamadas __LED7__ y __LED8__.
+
+Otra para el pulsador llamada __pulsador__.
+
+Y por ultimo la variante para el valor que nos salga llamada __valor2__.
+ 
+
 # -3<sup>er</sup>proyecto: Potenciometro. 
 
 
