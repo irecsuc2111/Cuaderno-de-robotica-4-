@@ -43,7 +43,7 @@ Otra para el pulsador llamada __pulsador__.
 
 Y por ultimo la variante para el valor que nos salga llamada __valor2__.
  
-Dentro del __void setup__ usamos 3 __pinmode__ uno del __pulsador__ que lo ponemos de __entrada__  y el 
+Dentro del __void setup__ usamos 3 __pinmode__ uno del __pulsador__ que lo ponemos de __entrada__  y los otros dos son de los __led 7 y 8__ que lo ponemos como salida
 
 # -3<sup>er</sup>proyecto: Potenciometro. 
 
