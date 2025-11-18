@@ -47,7 +47,8 @@ Dentro del __void setup__ usamos 3 __pinmode__ uno del __pulsador__ que lo ponem
 
 El __serial.begin(9600)__ es la velocidad de transmision en bits por segundo para que el arduino pueda enviar y recibir datos.
 
-Sigue con el __void loop__
+Sigue con el __void loop__ de primeras tenemos que el __valor2 = digitalwrite(pulsador)__ (esto significa que el valor2 va a ser igual al del pulsador. A continuación usamos el __if__ (compararor) y le preguntamos si el __valor2 = high__ (si el valor2 esta encendido) el __digitalWrite(LED7, LOW)__ y el __digitalWrite(LED8, HIGH)__ (lo que le preguntamos aqui es que si el valor2 esta encendido el led 7 esta apagado y el led 8  encendido), 
+y abajo es lo mismo pero al reves.
 
 # -3<sup>er</sup>proyecto: Potenciometro. 
 
