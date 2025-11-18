@@ -47,7 +47,7 @@ Dentro del __void setup__ usamos 3 __pinmode__ uno del __pulsador__ que lo ponem
 
 El __serial.begin(9600)__ es la velocidad de transmision en bits por segundo para que el arduino pueda enviar y recibir datos.
 
-
+Sigue con el __void loop__
 
 # -3<sup>er</sup>proyecto: Potenciometro. 
 
