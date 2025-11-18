@@ -15,7 +15,7 @@ Lo que tiene que hacer el circuito es que cuando se encienda los diodos leds se 
 </p>
 
 Mi codigo comienza con el void sutup (sirve para ejecutar un bloque de código una sola vez al inicio del programa),
-continua con el  pinMode(8, OUTPUT); y pinMode(7, OUTPUT); (lo que hace esto es que el pin que este seleccionado sea de salida.
+continua con el  pinMode(8, OUTPUT); y pinMode(7, OUTPUT); (lo que hace esto es que el pin que este seleccionado sea de salida).
 El programa continua con un void loop() (se usa para crear un bucle), el digitalWrite(8, HIGH) se usa para establecer un pin digital en estado alto (HIGH) y bajo (LOW) , despues el otro pin digitalWrite(7, LOW) lo ponemos bajo, usamos un delay(120) para que cuando se use el primer programa haya un tiempo de espera de 120 milisegundo. Despues el lo mismo pero intercambiando el low por el high y fin del programa.
 
 
@@ -76,6 +76,11 @@ Lo que tiene que hacer el circuito es que cuando cambiemos  el valor del potenci
 <img src= "Imágenes/mapeado_potenciometro (1).png" width="800" height="700" />
 </p>
 
+Al empezar tenemos 4 variables una es el led __(LED1 = 6)__, el potenciometro __(potenciometro = A2)__ la luz del led __(cantidadluz)__  y el valor del potenciometro __(valorpotenciometro)__.
+
+Añadimos el __void setup__ dentro ponemos __pinMode(LED1, OUTPUT)__ (ponemos el led como salida) y el __Serial.begin(9600)__
+
+
 
 
 # -5<sup>er</sup>proyecto: Ultrasonido.
@@ -87,9 +92,10 @@ Lo que tiene que hacer el circuito es que cuando cambiemos  el valor del potenci
 
 ## Explicación del circuito:
 
+El objetivo es que el sensor de ultrasonido detecte las distancias dependiendo si esta cerca o lejos y nos de el valor.
+
 ## Codigo:
 
-El objetivo es que el sensor de ultrasonido detecte las distancias dependiendo si esta cerca o lejos y nos de el valor.
 
 <p align="center">
 <img src= "Imágenes/mapeado_ultrasonic.png" width="400" height="400" />
