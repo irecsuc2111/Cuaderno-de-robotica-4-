@@ -80,11 +80,16 @@ Lo que tiene que hacer el circuito es que cuando cambiemos  el valor del potenci
 
 # -5<sup>er</sup>proyecto: Ultrasonido.
 
+
 <p align="center">
 <img src= "Imágenes/Ultrasonido.jpg" width="500" height="500" />
 </p>
 
+## Explicación del circuito:
+
 ## Codigo:
+
+El objetivo es que el sensor de ultrasonido detecte las distancias dependiendo si esta cerca o lejos y nos de el valor.
 
 <p align="center">
 <img src= "Imágenes/mapeado_ultrasonic.png" width="400" height="400" />
