@@ -52,11 +52,13 @@ y abajo es lo mismo pero al reves.
 
 # -3<sup>er</sup>proyecto: Potenciometro. 
 
-
 <p align="center">
 <img src= "Imágenes/Captura de pantalla 2025-11-02 215725.png" width="600" height="500" />
 </p>
 
+## Explicación del circuito:
+
+Lo que tiene que hacer el circuito es que cuando cambiemos  el valor del potenciometro el led se ilumine mas o menos.
 
 # -4<sup>er</sup>proyecto: Mapeado de potenciometro. 
 
