@@ -43,7 +43,11 @@ Otra para el pulsador llamada __pulsador__.
 
 Y por ultimo la variante para el valor que nos salga llamada __valor2__.
  
-Dentro del __void setup__ usamos 3 __pinmode__ uno del __pulsador__ que lo ponemos de __entrada__  y los otros dos son de los __led 7 y 8__ que lo ponemos como salida
+Dentro del __void setup__ usamos 3 __pinmode__ uno del __pulsador__ que lo ponemos de __entrada__  y los otros dos son de los __led 7 y 8__ que lo ponemos como salida.
+
+El __serial.begin(9600)__ es la velocidad de transmision en bits por segundo para que el arduino pueda enviar y recibir datos.
+
+
 
 # -3<sup>er</sup>proyecto: Potenciometro. 
 
