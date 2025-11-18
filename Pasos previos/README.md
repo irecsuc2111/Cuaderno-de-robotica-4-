@@ -66,6 +66,11 @@ Lo que tiene que hacer el circuito es que cuando cambiemos  el valor del potenci
 <img src= "Imágenes/potenciómetro_real (1).jpg" width="400" height="400" />
 </p>
 
+## Explicación del circuito:
+
+Lo que tiene que hacer el circuito es que cuando cambiemos  el valor del potenciometro el led se ilumine mas o menos.
+
+
 ## Codigo:
 <p align="center">
 <img src= "Imágenes/mapeado_potenciometro (1).png" width="800" height="700" />
