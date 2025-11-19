@@ -113,6 +113,12 @@ El programa empieza con el __#include "Ultrasonic.h"__ (estoy es como una variab
 A continuacion tenemos dos variables __TRIG_PIN = 4__ y __ECHO_PIN = 3__ (el pin trigger es el que envia el inpulso ultrasonico y el echo es que lo recibe despues de robotar).
 Y por ultimo tenemos la variable __Ultrasonic Distancia (TRIG_PIN, ECHO_PIN, 60000)__ (esto lo que indica es hasta la distancia maxima que vamos a la que mide el ultrasonida).
 
+Añadimos el __void setup__ y dentro el __Serial.begin(9600)__
+
+Y despues el __void loop__ donde dentro ponemos __Serial.print(Distancia. Ranging (CM))__ (esto solo indica que la distancia la vamos a medir en cm)  __Serial.print("cm")__ (esto es para decir que que nos lo ponga en cm).
+
+y despues abajo del __delay__ ponemos lo mismo pero midiendolo en pulgadas.
+
 
 
 
