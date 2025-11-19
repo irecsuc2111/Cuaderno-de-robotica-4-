@@ -78,7 +78,13 @@ Lo que tiene que hacer el circuito es que cuando cambiemos  el valor del potenci
 
 Al empezar tenemos 4 variables una es el led __(LED1 = 6)__, el potenciometro __(potenciometro = A2)__ la luz del led __(cantidadluz)__  y el valor del potenciometro __(valorpotenciometro)__.
 
-Añadimos el __void setup__ dentro ponemos __pinMode(LED1, OUTPUT)__ (ponemos el led como salida) y el __Serial.begin(9600)__
+Añadimos el __void setup__ dentro ponemos __pinMode(LED1, OUTPUT)__ (ponemos el led como salida) y el __Serial.begin(9600)__.
+
+Añadimos el __void loop__, y ponemos que  el __valorpotenciometro = analogRead(potenciometro)__ (esto significa que el valor que tenga el potenciometro va a ser igual a la lectura analogica del potenciometro).
+
+__cantidadluz = map(valorpotenciometro, 0, 824, 0, 255);__ (La cantidad de luz que va tener el led va ser la que este dentro del __map__ que es el mapeado una regla de 3, dentro de esta explicamos que el valor de nuestro potenciometro es desde el 0 hasta el 824 (un potenciometro puede dar valores de 0 a 1023 pero el nuestro no llega a ese numero) y los otros numeros que van del 0 al 225 es el velaor de intensidad que puede tener nuestro diodo).
+
+En el __analogWrite(LED1, cantidadluz)__  (aqui solo estamos indicando que el diodo led va tener la cantidad de luz que nos de de del mapeado de antes)
 
 
 
