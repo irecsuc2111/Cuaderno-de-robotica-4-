@@ -108,3 +108,13 @@ El objetivo es que el sensor de ultrasonido detecte las distancias dependiendo s
 <p align="center">
 <img src= "Imágenes/mapeado_ultrasonic.png" width="400" height="400" />
 </p>
+
+El programa empieza con el __#include "Ultrasonic.h"__ (estoy es como una variable que usamos para hacer indicar que en este programa vamos a usar el ultrasonido), tambien si vamos a usar el utrasonido tenemos que tenerlo en la libreria de arduino. 
+A continuacion tenemos dos variables __TRIG_PIN = 4__ y __ECHO_PIN = 3__ (el pin trigger es el que envia el inpulso ultrasonico y el echo es que lo recibe despues de robotar).
+Y por ultimo tenemos la variable __Ultrasonic Distancia (TRIG_PIN, ECHO_PIN, 60000)__ (esto lo que indica es hasta la distancia maxima que vamos a la que mide el ultrasonida).
+
+
+
+
+
+
