@@ -84,7 +84,9 @@ Añadimos el __void loop__, y ponemos que  el __valorpotenciometro = analogRead(
 
 __cantidadluz = map(valorpotenciometro, 0, 824, 0, 255);__ (La cantidad de luz que va tener el led va ser la que este dentro del __map__ que es el mapeado una regla de 3, dentro de esta explicamos que el valor de nuestro potenciometro es desde el 0 hasta el 824 (un potenciometro puede dar valores de 0 a 1023 pero el nuestro no llega a ese numero) y los otros numeros que van del 0 al 225 es el velaor de intensidad que puede tener nuestro diodo).
 
-En el __analogWrite(LED1, cantidadluz)__  (aqui solo estamos indicando que el diodo led va tener la cantidad de luz que nos de de del mapeado de antes)
+En el __analogWrite(LED1, cantidadluz)__  (aqui solo estamos indicando que el diodo led va tener la cantidad de luz que nos de de del mapeado de antes).
+
+
 
 
 
