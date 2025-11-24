@@ -122,5 +122,23 @@ y despues abajo del __delay__ ponemos lo mismo pero midiendolo en pulgadas.
 
 # -6<sup>er</sup>proyecto: Control de luminosidad con un ultrasonido
 
+<p align="center">
+<img src= "Imágenes/ultrasonido2.jpg" width="400" height="400" />
+</p>
+
+
+
+
+## Explicación del circuito:
+
+Lo que tiene que hacer este circuito es cuanto mas cerca este el ultrasonido de algo el diodo led va a ir iluminandose mas mientra se le hacerque un objeto y si en la distancia que tiene el ultrasonido se va alejando el led pierde luz.
+
+## Código:
+
+
+<p align="center">
+<img src= "Imágenes/Circuito;.png" width="400" height="400" />
+</p>
+
 
 
