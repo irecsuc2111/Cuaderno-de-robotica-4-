@@ -120,7 +120,7 @@ Y despues el __void loop__ donde dentro ponemos __Serial.print(Distancia. Rangin
 y despues abajo del __delay__ ponemos lo mismo pero midiendolo en pulgadas.
 
 
-
+# -6<sup>er</sup>proyecto: Control de luminosidad con un ultrasonido
 
 
 
