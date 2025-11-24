@@ -131,7 +131,7 @@ y despues abajo del __delay__ ponemos lo mismo pero midiendolo en pulgadas.
 
 ## Explicación del circuito:
 
-Lo que tiene que hacer este circuito es cuanto mas cerca este el ultrasonido de algo el diodo led va a ir iluminandose mas mientra se le hacerque un objeto y si en la distancia que tiene el ultrasonido se va alejando el led pierde luz.
+Lo que hace este programa es que cuando algo se acerque al ultrasonido este se ilumine y si se aleja vaya perdiendo la luminosidad poco a poco.
 
 ## Código:
 
@@ -140,5 +140,12 @@ Lo que tiene que hacer este circuito es cuanto mas cerca este el ultrasonido de 
 <img src= "Imágenes/Circuito;.png" width="400" height="400" />
 </p>
 
-En el codigo usamos 5 variantes __LED6__, __TRIG_PIN__, __ECHO_PIN__, __cantidaddeluz__ y __Distancia__
+-En el codigo usamos 5 variantes __LED6__, __TRIG_PIN__, __ECHO_PIN__, __cantidaddeluz__ y __Distancia__ Y tambien ponemos el __include "Ultrasonic.h__ para añadir el ultrasonido de la biblioteca.
+
+-En el __void setup__ ponemos el __LED6__ como salida y la velocidad en bits que va a pasar.
+
+-Dentro del __void loop__ lo primero que vamos a hacer es decir que la distancia que nos de el ultrasonido lo vamos a medir en centimetros __(cantidadluz-Distancia.Ranging(CM))__.
+Despues usamos el __if__ que esto es para indicar una decisión, en este caso decimos que si la cantidad de luz es mayor a 255 el diodo led se apaga.
+
+Y en la otra decision que tomanos con el __if__ es que si la cantidad de luz es menor o igual que 255 el led va a tener la cantidad de luz que salga de la resta de 255 y la cantidad de luz que nos de en el ultrasonido.
 
