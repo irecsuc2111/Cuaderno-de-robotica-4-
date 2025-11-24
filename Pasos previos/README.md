@@ -140,5 +140,5 @@ Lo que tiene que hacer este circuito es cuanto mas cerca este el ultrasonido de 
 <img src= "Imágenes/Circuito;.png" width="400" height="400" />
 </p>
 
-
+En ell codigo usamos 5 variantes
 
