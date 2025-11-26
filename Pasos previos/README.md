@@ -149,3 +149,7 @@ Despues usamos el __if__ que esto es para indicar una decisión, en este caso de
 
 Y en la otra decision que tomanos con el __if__ es que si la cantidad de luz es menor o igual que 255 el led va a tener la cantidad de luz que salga de la resta de 255 y la cantidad de luz que nos de en el ultrasonido.
 
+
+# -7<sup>er</sup>proyecto:Servomotor.
+
+
