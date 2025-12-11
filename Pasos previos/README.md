@@ -152,4 +152,7 @@ Y en la otra decision que tomanos con el __if__ es que si la cantidad de luz es 
 
 # -7<sup>er</sup>proyecto:Servomotor.
 
+|       Simbolo            |       Disposición interna  |
+| -------------            |      -------------         |
+|      <img src="Imagenes/XOR.png" width="400" height="400" />                   |      <img src="Imagenes/puerta_xor_int.png" width="400" height="400" />                    |
 
