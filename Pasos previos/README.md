@@ -178,3 +178,18 @@ Y con los otros dos el lo mismo pero solo cambiando su rotacion para que este en
 | -------------            |      -------------         |
 |      <img src="Imágenes/servo_poten.jpg" width="400" height="400" />                   |      <img src="Imágenes/potenciometro (1).png" width="400" height="400" />                    |
 
+
+
+## Explicación del circuito:
+
+
+
+Lo que teiene que hacer este programa es que cuando nosotros con el __potenciometro__ que va a estar conectado con el __servomotor__ lo giremos el __servo__ tendra que girar igual con el __potenciometro__.
+
+En este programa tenemos 5 variables y 1 biblioteca añadida, la biblioteca añadiada es la del __servomotor__ y 3 variables son para el servomotor.
+La primera es una de __rotacion__ que es como la del programa anterior, la segunda __const int servopin = 6__ que es como la del anterior y la tercera del servomotor es __Servo servomotor__ que es usando la biblioteca creamos una variable para el potenciometro.
+
+En el __void setup__ encontramos exactamente lo mimso que en el anterior programa.
+
+En el __void loop__ indicamos __valorpotenciometro = analogRead(potenciometropin)__ esto significa que el valor que tenga el potenciometro va a ser igual a la lectura analogica del potenciometro. 
+Despues hacemos un mapeado __rotacion map (valorpotenciometro, 0, 1023, 0, 180)__ de la rotacion y por ultimo __servomotor.write(rotacion)__ es para que lo que nos salga del mapeado se ponga en el servo motor.
