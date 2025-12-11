@@ -158,6 +158,23 @@ Y en la otra decision que tomanos con el __if__ es que si la cantidad de luz es 
 
 
 
+## Explicación del circuito:
+
+Lo que tiene que hacer este programa es que el servo haga un giro de 180 grados.
+
+En este programa tiene 3 servos y 1 biblioteca, la biblioteca que añadimos es la del __servomotor__ y nuestra primera variable que es __servoprinc__ se a creado a partir de la biblioteca, la segunada variable que empieza con __const int__ es una variable de tipo entera significa que su valor no puede ser cambiado esa variable es el pin al que va conectado el servo __(servopin)__ y la ultima variable es solo para sabser la rotación que tiene el servo motor.
+
+En el __void setup__ usamos un __serial.begin__ ponemos al pin del servo como salida __(pinMode (servopin, OUTPUT))__ despues usamos el __servoprinc.attach(servopin);__ el __attach__ lo usamos para vincular el servo con su pin.
+
+Nos pasamos al __void loop__ usamos nuestra variable de rotación y la ponemos en 0 grados y abajo usamos el __servoprinc.write(rotacion);__ que esto significa que el servo dependiendo de la rotacion que haya va a girar en este caso como su rotacion le hemos puesto 0 se queda en 0 grados y el __Serial.println(rotacion);__ hace que la posicion que salga se envie al puerto seria y le metemos un __delay__ para que pueda pensar el servo.
+
+Y con los otros dos el lo mismo pero solo cambiando su rotacion para que este en otra dirección.
 
 
+
+# -8<sup>er</sup>proyecto:Control de potenciometro con servomotor.
+
+|       Circuito            |       Codigo  |
+| -------------            |      -------------         |
+|      <img src="Imágenes/servo_poten.jpg" width="400" height="400" />                   |      <img src="Imágenes/potenciometro (1).png" width="400" height="400" />                    |
 
