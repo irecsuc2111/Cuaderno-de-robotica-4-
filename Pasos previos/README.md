@@ -154,7 +154,7 @@ Y en la otra decision que tomanos con el __if__ es que si la cantidad de luz es 
 
 |       Circuito            |       Codigo  |
 | -------------            |      -------------         |
-|      <img src="Imagenes/XOR.png" width="400" height="400" />                   |      <img src="Imágenes/servo.png" width="400" height="400" />                    |
+|      <img src="Imágenes/servo.jpg" width="400" height="400" />                   |      <img src="Imágenes/servo.png" width="400" height="400" />                    |
 
 
 
