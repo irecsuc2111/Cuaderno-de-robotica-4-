@@ -11,5 +11,8 @@
 
 ## -Chasis del robot real.
 
-
+<p align="center">
   <img src="Fotos/robot vacío .jpg" width="400" height="500" />   
+</p>
+
+
