@@ -12,4 +12,4 @@
 ## -Chasis del robot real.
 
 
-  <img src="Fotos/Swanky Curcan-Robo (1) (1).png" width="400" height="400" />   
+  <img src="Fotos/robot vacío .jpg" width="400" height="500" />   
