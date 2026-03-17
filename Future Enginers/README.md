@@ -33,9 +33,8 @@ __1 portapilas con pilas de 18650 de 3,7 voltios cada una__
 __1 placa de arduinos__
 
 
-En la parte delantera del chasis tenemos un muro para enganchar el servo motor
 
 
 ## Montaje de sensores.
 
-En las 2 esquinas traseras van 2 los motores
+En las 2 esquinas traseras van 2 los __motores__, entre los dos motores van el __escudo__, en la parte delantera donde se ve una especie de columna va el __servomotor__ para que encaje perfectamente sin que el __servomotor__ se mueva y encima del servomotor va el __ultrasonido__, en la columna de la derecha donde se ven dos huecos va la __placa de arduinos__ para poder meter la corriente y actualizar la placa y por ultimo a la izquierda de la __placa de arduino__ va el __porta pilas__.
