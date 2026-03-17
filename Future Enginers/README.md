@@ -43,3 +43,4 @@ En las 2 esquinas traseras van 2 los __motores__, entre los dos motores van el _
   <img src="Fotos/robot_posición .jpg" width="400" height="500" />   
 </p>
 
+## Montaje de sensores con cableado.
