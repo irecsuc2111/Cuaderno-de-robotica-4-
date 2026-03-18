@@ -88,5 +88,6 @@ El pin __trigger__ va conectado al pin __5___ del arduino.
 El pin __echo__ va conectado al pin __4___ del arduino.
 
 
+### -Portapilas con pilas de 18650 de 3,7 voltios cada una:
 
-
+El cable rojo es el lado positivo de la pila que va soldado con el cabale del escudo de __12v__ 
