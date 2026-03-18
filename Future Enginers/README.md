@@ -44,3 +44,7 @@ En las 2 esquinas traseras van 2 los __motores__, entre los dos motores van el _
 </p>
 
 ## Montaje de sensores con cableado.
+
+|       Diseño            |       Diseño  |
+| -------------            |      -------------         |
+|      <img src="Fotos/Swanky Curcan-Robo (1) (1).png" width="400" height="400" />                   |      <img src="Fotos/Swanky Curcan-Robo (2) (1).png" width="400" height="400" />                    |
