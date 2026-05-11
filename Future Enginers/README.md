@@ -121,7 +121,7 @@ El cable rojo es el lado positivo de la pila que va soldado con el cabale del es
 |      <img src="Fotos/" width="400" height="400" />                   |      <img src="Fotos/" width="400" height="400" />                    |
 
 
-## Reto 5 " Robot moviéndose adelante, deteniéndose ante la presencia de un objeto, en ese momento el servomotor gira y el sensor de ultrasonidos nos da dos lecturas (izquierda y derecha) en el monitor serie"
+## Reto 5 "Robot moviéndose adelante, deteniéndose ante la presencia de un objeto, en ese momento el servomotor gira y el sensor de ultrasonidos nos da dos lecturas (izquierda y derecha) en el monitor serie"
 
 |       Programa            |       Video  |
 | -------------            |      -------------         |
@@ -135,7 +135,7 @@ El cable rojo es el lado positivo de la pila que va soldado con el cabale del es
 |      <img src="Fotos/" width="400" height="400" />                   |      <img src="Fotos/" width="400" height="400" />                    |
 
 
-## Reto 7 " El robot es capaz de salirse de un laberinto"
+## Reto 7 "El robot es capaz de salirse de un laberinto"
 
 |       Programa            |       Video  |
 | -------------            |      -------------         |
