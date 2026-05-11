@@ -91,3 +91,54 @@ El pin __echo__ va conectado al pin __4___ del arduino.
 ### -Portapilas con pilas de 18650 de 3,7 voltios cada una:
 
 El cable rojo es el lado positivo de la pila que va soldado con el cabale del escudo de __12v__ 
+
+
+
+## Reto 1 "Servomotor girando"
+
+|       Programa            |       Video  |
+| -------------            |      -------------         |
+|      <img src="Fotos/" width="400" height="400" />                   |      <img src="Fotos/" width="400" height="400" />                    |
+
+
+## Reto 2 "Ultrasonidos tomando lectura de las distintas distancias"
+
+|       Programa            |       Video  |
+| -------------            |      -------------         |
+|      <img src="Fotos/" width="400" height="400" />                   |      <img src="Fotos/" width="400" height="400" />                    |
+
+
+## Reto 3 "Robot moviéndose adelante y atrás"
+
+|       Programa            |       Video  |
+| -------------            |      -------------         |
+|      <img src="Fotos/" width="400" height="400" />                   |      <img src="Fotos/" width="400" height="400" />                    |
+
+## Reto 4 "Robot moviéndose adelante y deteniéndose a 20 cm de un objeto"
+
+|       Programa            |       Video  |
+| -------------            |      -------------         |
+|      <img src="Fotos/" width="400" height="400" />                   |      <img src="Fotos/" width="400" height="400" />                    |
+
+
+## Reto 5 " Robot moviéndose adelante, deteniéndose ante la presencia de un objeto, en ese momento el servomotor gira y el sensor de ultrasonidos nos da dos lecturas (izquierda y derecha) en el monitor serie"
+
+|       Programa            |       Video  |
+| -------------            |      -------------         |
+|      <img src="Fotos/" width="400" height="400" />                   |      <img src="Fotos/" width="400" height="400" />                    |
+
+
+## Reto 6 "El robot gira hacia el lado en el que más distancia hay"
+
+|       Programa            |       Video  |
+| -------------            |      -------------         |
+|      <img src="Fotos/" width="400" height="400" />                   |      <img src="Fotos/" width="400" height="400" />                    |
+
+
+## Reto 7 " El robot es capaz de salirse de un laberinto"
+
+|       Programa            |       Video  |
+| -------------            |      -------------         |
+|      <img src="Fotos/" width="400" height="400" />                   |      <img src="Fotos/" width="400" height="400" />                    |
+
+
