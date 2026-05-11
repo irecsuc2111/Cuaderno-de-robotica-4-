@@ -112,7 +112,7 @@ El cable rojo es el lado positivo de la pila que va soldado con el cabale del es
 
 |       Programa            |       Video  |
 | -------------            |      -------------         |
-|      <img src="Fotos/" width="400" height="400" />                   |      <img src="Fotos/" width="400" height="400" />                    |
+|      <img src="Fotos/reto3_programa.png" width="400" height="400" />                   |      <img src="Fotos/" width="400" height="400" />                    |
 
 ## Reto 4 "Robot moviéndose adelante y deteniéndose a 20 cm de un objeto"
 
